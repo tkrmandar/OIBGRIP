@@ -1,0 +1,92 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.background{
+    background-image: url('back1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    padding-bottom: 15%;
+    text-align:center;
+}
+
+/* header */
+.dropdown-toggle{
+    text-decoration:none;
+    display:inline-block;
+    color: black;
+}
+
+.img1{
+    display:inline-block;
+    width:200px;
+    text-align: left;
+}
+
+.row1{
+    padding: 5% 0%;
+}
+
+/* first page */
+
+h1{
+    font-size: 60px;
+    font-weight: 800;
+    font-family: 'PT Serif Caption', serif;
+    margin-bottom: 20px;
+    letter-spacing: 5px;
+}
+
+h6{
+    font-weight: 600;
+    font-family: 'PT Serif Caption', serif;
+}
+
+.first-btn{
+    border-radius: 20px;
+}
+
+
+/* second page  */
+
+.first-para{
+    text-align: left;
+}
+
+.img2{
+    margin-left: 400px;
+}
+
+.second-para{
+    text-align:right;
+}
+
+.img3{
+    margin-left: 90px;
+}
+
+
+.icon{
+    color:black;
+    text-decoration: none;
+}
+
+/* third section  */
+
+.row2{
+    margin: 2% 15%;
+    padding-top: 0px;
+    
+}
+
+.card1{
+    height: 200px;
+    border-radius: 50px;
+}
+
+.card{
+    border: none;
+}
+
